@@ -11,4 +11,7 @@ body{
     margin: auto;
     padding: 1em;
     height:5em;
+    background-color: white;
+    color:black;
+    box-shadow: 0em 1em 0em 0em rgb(230,230,230);
 }

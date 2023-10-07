@@ -9,6 +9,7 @@ body{
 }
 #title{
     margin: auto;
+    text-align: center;
     padding: 1em;
     height:5em;
     background-color: white;

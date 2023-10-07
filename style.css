@@ -5,4 +5,10 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Titan One' cursive;
+}
+#title{
+    margin: auto;
+    padding: 1em;
+    height:5em;
 }
